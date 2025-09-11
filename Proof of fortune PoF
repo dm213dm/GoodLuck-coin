@@ -29,7 +29,7 @@ Traditional consensus models often favor resource-rich participants, leading to 
 - Node must be online and synchronized with the network  
 - Node must register a public key and unique identifier
 
-3.2 Random Selection via VRF
+3.2 Random Selection via VRF or another random function
 
 - Each eligible node generates a Verifiable Random Function (VRF) output  
 - The network selects the node with the lowest hash value for the current round  
