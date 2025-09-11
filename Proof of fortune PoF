@@ -29,7 +29,7 @@ Traditional consensus models often favor resource-rich participants, leading to 
 - Node must be online and synchronized with the network  
 - Node must register a public key and unique identifier
 
-3.2 Random Selection via VRF or another random function
+3.2 Random Selection via VRF or another random function, another random algorithm.
 
 - Each eligible node generates a Verifiable Random Function (VRF) output  
 - The network selects the node with the lowest hash value for the current round  
@@ -112,7 +112,7 @@ Proof of Fortune (PoF) — это инновационный алгоритм к
 - Быть онлайн и синхронизирован с сетью  
 - Иметь публичный ключ и уникальный идентификатор
 
-3.2 Случайный выбор через VRF
+3.2 Случайный выбор через VRF или другая случайная функция или любой алгоритм случайности
 
 - Каждый узел генерирует VRF-выход  
 - Узел с наименьшим хэшем выбирается для текущего раунда  
