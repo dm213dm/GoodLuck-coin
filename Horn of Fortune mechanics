@@ -1,0 +1,125 @@
+Here's the English version of the Horn of Fortune whitepaper tailored for the GoodLuckCoin (GLC) ecosystem and its Proof of Fortune (PoF) consensus. This version mirrors the tone and structure of the official PoF whitepaper so it can be proposed as a formal extension.
+
+---
+
+📜 Whitepaper: Horn of Fortune (PoF Extension) v1.0
+Author: Dmitriy Moriganov  
+Date: September 12, 2025  
+Blockchain: TON  
+Token: GLC  
+Format: Jetton + NFT
+
+---
+
+1. Introduction
+Horn of Fortune is a community-driven ritual designed to expand the Proof of Fortune (PoF) consensus within the GoodLuckCoin (GLC) ecosystem. It introduces a collective staking mechanism where participants deposit GLC into a shared pool, awaiting a randomized reward after a fixed period.
+
+---
+
+2. Motivation
+- Enhance long-term engagement and retention  
+- Introduce gamified staking with social dynamics  
+- Foster trust through transparent reward mechanics  
+- Extend PoF beyond block validation into ritualized luck
+
+---
+
+3. Core Mechanism
+
+3.1 Pool Requirements:
+- Minimum 100 participants  
+- Minimum 1,000,000,000 GLC deposited  
+- Lock-in period: 6 months  
+- Funds are held securely in a smart contract
+
+3.2 VRF Reward Draw:
+- After 6 months, a Verifiable Random Function (VRF) determines the reward percentage  
+- Reward range: 0.1% to 10% of the total pool  
+- VRF ensures fairness and unpredictability
+
+3.3 Reward Distribution:
+- Rewards are distributed proportionally to each participant’s contribution  
+- NFT talismans may apply bonus multipliers to individual shares  
+- Remaining pool may be rolled into future cycles or partially burned
+
+---
+
+4. Gamification Layer
+- NFT “Horn of Fortune” visualizes pool status  
+- Horn levels: 🟢 Basic, 🔵 Filled, 🔴 Overflowing  
+- Participants earn Luck Reputation Points  
+- Optional PoF Groups can form shared horns with collective bonuses
+
+---
+
+5. Security Considerations
+- Smart contract includes time-lock and VRF integration  
+- All transactions are publicly auditable  
+- Sybil resistance via minimum deposit and NFT identity binding
+
+---
+
+6. Implementation Notes
+- Fully compatible with Telegram bot @GoodLuckBot  
+- Built on TON Jetton and NFT standards  
+- Can be embedded into PoF Halving cycles as a ceremonial event
+
+---
+
+7. Use Cases
+- Community PoF drops  
+- NFT incentives and visual gamification  
+- Strategic long-term staking  
+- DAO voting power based on horn participation
+
+---
+
+8. Conclusion
+Horn of Fortune transforms passive staking into a ritual of collective luck. It’s not just about rewards — it’s about building a culture of anticipation, contribution, and shared destiny within the GLC universe.
+
+---
+ Давай оформим механику «Рога Изобилия» с учётом пропорционального распределения награды, чтобы она могла быть внедрена в экосистему GLC как полноценный PoF-ритуал.
+
+---
+
+🐐 Механика «Рог Изобилия» — PoF-ритуал удачи
+
+📦 Суть:
+Участники добровольно вносят GLC в коллективный пул. По истечении 6 месяцев запускается VRF-розыгрыш, который определяет процент награды — от 0.1% до 10% от общей суммы. Награда распределяется пропорционально вкладу каждого участника.
+
+---
+
+📜 Условия участия:
+| Параметр                     | Значение                          |
+|------------------------------|-----------------------------------|
+| Минимальное число участников | 100                           |
+| Минимальный объём пула       | 1 000 000 000 GLC             |
+| Срок хранения средств        | 6 месяцев                     |
+| Механизм выбора награды      | VRF (Verifiable Random Function) |
+| Диапазон награды             | 0.1% – 10% от пула            |
+| Распределение                | Пропорционально вкладу        |
+
+---
+
+🧮 Пример:
+- Общий пул: 1 000 000 000 GLC
+- Твой вклад: 10 000 000 GLC (1%)
+- VRF выбрал награду: 5% → 50 000 000 GLC
+- Твоя доля: 1% от награды → 500 000 GLC
+
+---
+
+🔐 Прозрачность:
+- Все транзакции фиксируются в смарт-контракте.
+- VRF-результат публикуется публично.
+- Участники могут отслеживать статус пула и свою долю через @GoodLuckBot.
+
+---
+
+🌟 Дополнительно:
+- Участники с NFT-талисманами могут получить бонусный множитель к своей доле (например, +5%).
+- Можно добавить визуализацию рога — как NFT-объект, который «наполняется» по мере роста пула.
+- В будущем — запуск мульти-рогов с разными сроками и условиями.
+
+---
+
