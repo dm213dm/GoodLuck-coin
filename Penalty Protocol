@@ -1,0 +1,202 @@
+Here's the full Penalty Protocol Whitepaper in English, structured as a standalone document within the GoodLuckCoin (GLC) ecosystem. It outlines the purpose, mechanics, activation conditions, consequences, and philosophical foundation of the protocol that governs epoch progression through community commitment.
+
+---
+
+⚔️ Penalty Protocol
+
+Whitepaper: Epoch Lock & Ritual Suspension in the GLC Ecosystem
+
+---
+
+1. Introduction
+
+GoodLuckCoin (GLC) is a cryptocurrency built on the TON blockchain, governed by the Proof of Fortune (PoF) consensus. Unlike traditional models, PoF selects validators through cryptographic randomness, ritual participation, and long-term commitment.
+
+The Penalty Protocol is a core mechanism that enforces discipline and loyalty within the PoF Epoch System. It ensures that each transition between epochs is earned—not automatic—by requiring a minimum number of long-term participants. If the threshold is not met, the system enters a suspended state, freezing all rewards and rituals until the community proves its readiness.
+
+---
+
+2. Purpose of the Penalty Protocol
+
+- 🔒 Prevent passive inflation and maintain token scarcity  
+- 🧠 Enforce meaningful community engagement  
+- 🕰️ Transform halving into a ritualized challenge  
+- 🎮 Gamify epoch progression through time-based loyalty  
+- 🔥 Preserve the mythological structure of PoF as a journey, not a schedule
+
+---
+
+3. Activation Conditions
+
+The Penalty Protocol is triggered if, within 90 days of a halving event, the number of Verified Keepers—wallets holding GLC uninterrupted for ≥365 days—fails to meet the minimum threshold for the current epoch.
+
+| Epoch          | Year   | Minimum Verified Keepers |
+|----------------|--------|---------------------------|
+| Halving I      | 2030   | ≥ 1000  
+| Halving II     | 2032   | ≥ 500  
+| Halving III    | 2034   | ≥ 250  
+| Final Flame    | 2036+  | ≥ 125  
+
+---
+
+4. Consequences of Penalty Activation
+
+If the threshold is not met:
+
+- ❌ All Draws (PoF, Loyalty, Transfer) are suspended  
+- 🔐 Ritual Mint becomes inaccessible  
+- 🔥 Burn Protocol is disabled  
+- 🧿 Soulbound NFTs receive the “Penalty Phase” status  
+- 📉 Karma Score progression is frozen  
+- 🕰️ Epoch transition is blocked  
+- 📜 Keeper Ledger records “Epoch Lock” status
+
+---
+
+5. Epoch Lock Logic
+
+Despite the predefined halving calendar, GLC does not automatically advance to the next epoch if Penalty Protocol is active. The ecosystem remains in the current epoch until:
+
+- The Verified Keeper threshold is met  
+- Participants confirm their holding status via Telegram bot or dApp  
+- The Keeper Ledger records “Epoch Unlocked”
+
+This ensures that time alone does not guarantee progress—only loyalty does.
+
+---
+
+6. Ritual Revival (Optional)
+
+After 180 days of Penalty, the community may initiate a Ritual Revival:
+
+- Participants activate new Verified Keepers  
+- Revival requires ≥ 50% of the original epoch threshold  
+- If successful:  
+  - Penalty is lifted  
+  - Rituals resume  
+  - NFTs receive the “Revived Flame” status  
+  - Epoch transition is unlocked
+
+---
+
+7. NFT Statuses During Penalty
+
+| NFT Status         | Condition                            | Effect                         |
+|--------------------|--------------------------------------|--------------------------------|
+| Penalty Phase      | Penalty active                      | Rituals suspended  
+| Revived Flame      | Successful Ritual Revival            | Full access restored  
+| Epoch Locked       | Threshold not met                    | Epoch progression blocked  
+
+---
+
+8. Philosophical Foundation
+
+“Time moves forward. But the flame does not reward weakness.”
+
+GLC is not governed by dates—it is governed by devotion.  
+The Penalty Protocol transforms halving into a test of endurance.  
+Only those who hold through time, without wavering, unlock the next chapter.  
+PoF is not a schedule. It is a myth. And every epoch must be earned.
+
+Ниже — полноценный whitepaper-модуль для Penalty Protocol в экосистеме GoodLuckCoin (GLC). Он оформлен как самостоятельный документ, описывающий цели, механику, последствия и философию протокола, который превращает халвинг в испытание, а переход между эпохами — в заслуженное право.
+
+---
+
+⚔️ Whitepaper: Penalty Protocol
+
+GLC Epoch Lock & Ritual Suspension Mechanism
+
+---
+
+1. Введение
+
+GoodLuckCoin (GLC) — это криптовалюта на блокчейне TON, основанная на консенсусе Proof of Fortune (PoF).  
+В отличие от традиционных моделей, PoF строится на криптографической случайности, ритуальной вовлечённости и философии цифрового восхождения.
+
+Penalty Protocol — это защитный механизм, встроенный в архитектуру PoF Epochs. Он активируется, если сообщество не демонстрирует достаточную преданность, и блокирует переход к следующей эпохе. Это превращает халвинг в испытание, где время — не гарантия, а проверка.
+
+---
+
+2. Цели Penalty Protocol
+
+- 🔒 Защитить экономику от пассивной инфляции  
+- 🧠 Проверить зрелость и вовлечённость сообщества  
+- 🕰️ Превратить халвинг в ритуал, а не автоматический переход  
+- 🎮 Усилить геймификацию и ценность холда  
+- 🔥 Сохранить мифологию PoF как путь, а не процесс
+
+---
+
+3. Условия активации
+
+Penalty Protocol активируется, если в течение 90 дней после начала Halving Epoch:
+
+- Количество Verified Keepers (участников с непрерывным холдом ≥365 дней)  
+  не достигает минимального порога, установленного для текущей эпохи
+
+| Эпоха         | Год   | Мин. Verified Keepers |
+|---------------|--------|------------------------|
+| Halving I     | 2030   | ≥ 1000  
+| Halving II    | 2032   | ≥ 500  
+| Halving III   | 2034   | ≥ 250  
+| Final Flame   | 2036+  | ≥ 125  
+
+---
+
+4. Последствия Penalty
+
+Если порог не достигнут:
+
+- ❌ Все Draw (PoF, Loyalty, Transfer) замораживаются  
+- 🔐 Ritual Mint недоступен  
+- 🔥 Burn Protocol блокируется  
+- 🧿 NFT получают метку “Penalty Phase”  
+- 📉 Karma Score фиксируется  
+- 🕰️ Переход к следующей эпохе блокируется  
+- Keeper Ledger фиксирует “Epoch Lock”
+
+---
+
+5. Логика эпох
+
+Несмотря на заранее установленный календарь халвингов, GLC не переходит к следующей эпохе, если Penalty активен.  
+Экосистема остаётся в текущей эпохе до тех пор, пока:
+
+- Порог Verified Keepers достигнут  
+- Участники подтвердили холд через Telegram-бот или dApp  
+- Keeper Ledger фиксирует “Epoch Unlocked”
+
+---
+
+6. Ritual Revival (опционально)
+
+Через 180 дней после активации Penalty может быть запущен Ritual Revival — миссия восстановления активности:
+
+- Участники активируют новых хранителей  
+- Revival требует ≥ 50% от порога Verified Keepers  
+- Успешное Revival снимает Penalty досрочно  
+- NFT обновляется: “Revived Flame”  
+- Keeper Ledger фиксирует “Epoch Unlocked”
+
+---
+
+7. NFT-статусы в фазе Penalty
+
+| Статус NFT           | Условие                            | Эффект                         |
+|----------------------|-------------------------------------|--------------------------------|
+| Penalty Phase        | Активен Penalty                    | Блокировка ритуалов  
+| Revived Flame        | Успешное Ritual Revival            | Доступ к Mint, Burn, Draw  
+| Epoch Locked         | Порог не достигнут, время остановлено | Нет перехода к следующей эпохе  
+
+---
+
+8. Философия
+
+“Время движется. Но огонь не прощает слабость.”
+
+GLC не следует календарю.  
+Каждая эпоха — это испытание, и если хранители не готовы — время останавливается.  
+Penalty Protocol превращает PoF в путь, где переход заслуживается, а не гарантируется.  
+Только те, кто выдержал время, открывают следующую главу.
+
+---
